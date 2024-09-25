@@ -19,7 +19,7 @@ use_extra_tests = False
 def search_tree(root, dna):
     cur = root
     for i in dna:
-        if(i in cur.children):
+        if i in cur.children:
             cur=cur.children[i]
         else:
             return 0
