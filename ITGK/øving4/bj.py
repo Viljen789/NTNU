@@ -122,12 +122,15 @@ def blackjack() -> float:
 cont = True
 balance = 1000
 bet = 0
+valid = 1
+edgingstreakmogginglooksmaxonjohnporkrizzmewingstreak = 1
 while cont:
-    valid = 1
     while valid:
         bet = int(input(f"Hvor mye vil du satse? (0-{balance})$ "))  
         if bet == 0:
             cont = 0
+            valid = 0
+            edgingstreakmogginglooksmaxonjohnporkrizzmewingstreak = 0
             break
 
         if bet <= balance:
@@ -135,7 +138,6 @@ while cont:
             break
         else:
             print("Du har desverre ikke nok")
-    balance += bet*blackjack()
+    if edgingstreakmogginglooksmaxonjohnporkrizzmewingstreak:
+        balance += bet*blackjack()
 
-
-print(trekk())
