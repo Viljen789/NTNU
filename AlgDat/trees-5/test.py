@@ -14,6 +14,7 @@ def string_match(dna, segments):
     return tot
 
 
+
 def build_tree_own(root, sequence):
     trav  = root
     for i in sequence:
