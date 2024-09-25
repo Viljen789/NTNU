@@ -2,6 +2,8 @@
 # coding=utf-8
 import random
 
+from fontTools.mtiLib import build
+
 # Testsettet på serveren er større og mer omfattende enn dette.
 # Hvis programmet ditt fungerer lokalt, men ikke når du laster det opp,
 # er det gode sjanser for at det er tilfeller du ikke har tatt høyde for.
@@ -33,20 +35,36 @@ k_upper = 20
 seed = 0
 
 
-def string_match(dna, segments):
-    #dna = "ACTTACTGG" og segments = ["A", "ACT", "GG"] -> return 5 pga 2A, 2 ACT, 1 GG
-    if(len(segments)==0):
-        return 0
-    maxlen = max([len(segment) for segment in segments])
-    root = Node()
-    for i in range(len(dna)-maxlen):
-        build_tree(dna[i:i+maxlen], root)
 
+def string_match(dna, segments):
+    if len(segments)==0:
+        return 0
+
+    maxlen = max([len(segment) for segment in segments])
+
+    seqs = [0]*len(dna)
+    for i in range(len(dna)-maxlen+1):
+        seqs[i] = dna[i:i+maxlen]
+    for i in range(len(dna)-maxlen+1, len(dna)):
+        seqs[i] = dna[i:]
+    root = build_tree(seqs)
     tot = 0
     for segment in segments:
         tot += search_tree(root, segment)
     return tot
 
+
+def build_tree(dna_sequences):
+    root = Node()
+    trav  = root
+    for sequence in dna_sequences:
+        trav  = root
+        for i in sequence:
+            if i not in trav.children:
+                trav.children[i] = Node()
+            trav = trav.children[i]
+            trav.count += 1
+    return root
 
 def search_tree(root, dna):
     cur = root
@@ -58,7 +76,8 @@ def search_tree(root, dna):
     return cur.count
 
 
-def build_tree(dna_sequences, root):
+def build_tree(dna_sequences):
+    root = Node()
     trav  = root
     for sequence in dna_sequences:
         trav  = root
@@ -83,6 +102,7 @@ class Node:
             )
             + "}"
         )
+
 
 
 
