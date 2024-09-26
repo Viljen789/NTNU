@@ -29,10 +29,6 @@ def build_tree(dna_sequences):
     return root
 
 
-
-
-
-
 class Node:
     def __init__(self):
         self.children = {}
