@@ -3,7 +3,7 @@
 import random
 
 from fontTools.mtiLib import build
-
+#Først  bygge tre av segmentene og så søke i dna etter segmentene
 # Testsettet på serveren er større og mer omfattende enn dette.
 # Hvis programmet ditt fungerer lokalt, men ikke når du laster det opp,
 # er det gode sjanser for at det er tilfeller du ikke har tatt høyde for.
@@ -35,58 +35,39 @@ k_upper = 20
 seed = 0
 
 
-
 def string_match(dna, segments):
-    if len(segments)==0:
+    if len(segments) == 0:
         return 0
-
-    maxlen = max([len(segment) for segment in segments])
-
-    seqs = [0]*len(dna)
-    for i in range(len(dna)-maxlen+1):
-        seqs[i] = dna[i:i+maxlen]
-    for i in range(len(dna)-maxlen+1, len(dna)):
-        seqs[i] = dna[i:]
-    root = build_tree(seqs)
-    tot = 0
+    root = Node()
     for segment in segments:
-        tot += search_tree(root, segment)
+        build_tree_own(root, segment)
+    maxlen = max([len(segment) for segment in segments])
+    tot = 0
+    for i in range(len(dna)):
+        tot += search_tree_own(root, dna[i:i+maxlen])
+
     return tot
 
 
-def build_tree(dna_sequences):
-    root = Node()
-    trav  = root
-    for sequence in dna_sequences:
-        trav  = root
-        for i in sequence:
-            if i not in trav.children:
-                trav.children[i] = Node()
-            trav = trav.children[i]
-            trav.count += 1
+def build_tree_own(root, sequence):
+    for i in sequence:
+        if i not in root.children:
+            root.children[i] = Node()
+        root = root.children[i]
+    root.count += 1
     return root
 
-def search_tree(root, dna):
+
+def search_tree_own(root, dna):
     cur = root
+    tot = 0
     for i in dna:
-        if(i in cur.children):
+        if i in cur.children:
+            tot+=cur.count
             cur=cur.children[i]
         else:
-            return 0
-    return cur.count
-
-
-def build_tree(dna_sequences):
-    root = Node()
-    trav  = root
-    for sequence in dna_sequences:
-        trav  = root
-        for i in sequence:
-            if i not in trav.children:
-                trav.children[i] = Node()
-            trav = trav.children[i]
-            trav.count += 1
-    return root
+            break
+    return tot+cur.count
 
 
 class Node:
