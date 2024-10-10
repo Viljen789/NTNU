@@ -11,12 +11,24 @@
 # større settet med genererte instanser, må du (1) laste ned filen med
 # testene fra øvingssystemet, (2) legge den samme plass som denne
 # python-filen og (3) sette variabelen under til True.
-use_extra_tests = True
-
-
-def encoding(node, code=""):
-
+use_extra_tests = 0
+def trav(node, d, code):
     if node.left_child:
+        trav(node.left_child, d, code + "0")
+
+    if node.right_child:
+        trav(node.right_child, d, code + "1")
+    if not node.left_child and not node.right_child:
+        d[node.character]=code
+
+
+def encoding(node):
+    d = {}
+    trav(node, d, "")
+    return d
+
+
+
 
 
 
