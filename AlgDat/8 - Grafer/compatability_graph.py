@@ -12,10 +12,22 @@
 # testene fra øvingssystemet, (2) legge den samme plass som denne
 # python-filen og (3) sette variabelen under til True.
 use_extra_tests = False
-
+"""
+Du skal implementere funksjonen compatibility_graph(donors, recipients, k). Her er donors og recipients lister av attributtene til henholdsvis donorer og mottakere: donors[i][j] er det j
+j-te attributtet (representert ved en tekststreng) til den i
+i-te donoren, og tilsvarende for recipients[i][j]. Listene har attributtene i samme rekkefølge, så en donor d
+d og en mottaker m
+m har et matchende attributt j
+j dersom donors[d][j] == recipients[m][j]. Antallet attributter som må matche for at en donor og en mottaker skal anses som kompatible er gitt ved k.
+"""
 
 def compatibility_graph(donors, recipients, k):
-    donor_edges = []
+     for i in range(donors):
+         for j in range(recipients):
+
+
+
+    return donor_edges
 
 
 
