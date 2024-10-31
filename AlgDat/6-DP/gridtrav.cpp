@@ -66,14 +66,8 @@ mt19937 RNG(chrono::steady_clock::now().time_since_epoch().count());
 
 void solve() {
     // Add your solution here
-    unordered_map<int, vi> um;
-    int *l = nullptr;
-    queue<int*> q;
-    q.push(l);
-    while(!q.empty()){
-    	cout << q.front() << endl;
-    	q.pop();
-    }
+    vl v = {0, 0, 0, 0, 0};
+    if(!v.empty())cout << "a"<<endl;
 }
 
 int main() {
