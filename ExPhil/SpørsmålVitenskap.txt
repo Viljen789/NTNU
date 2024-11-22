@@ -1,0 +1,412 @@
+Spørsmål 1
+
+Det blir ofte bemerket at det er en asymmetri mellom bekreftelse og avkreftelse av hypoteser. Hva er forskjellen?
+
+		
+Kun hypoteser som avkreftes gjennom testing er helt sikkert vitenskapelig. Hypoteser som bekreftes er det ikke.
+
+		
+For å avkrefte en hypotese gjennom observasjoner, kreves bare deduktive slutninger. Bekreftelse krever induksjon.
+
+		
+Kun bekreftelse av hypoteser kan bidra til vitenskapelig fremskritt. Avkreftelse fører derimot til paradigmeskifter. 
+
+		
+Når en hypotese bekreftes av observasjoner, kan vi med sikkerhet si at den er sann. Avkreftelse gir ikke sikkerhet.
+
+1 poeng   
+
+Spørsmål 2
+
+Ved å sette et dataprogram til å se om det er noe interessant å finne i en enorm mengde helsedata fra hele Norge, har forskere oppdaget at en bestemt bygd har uvanlig mange tilfeller av en bestemt type kreft. De lurer på hvorfor, og finner etter hvert ut at det også er uvanlig store forekomster av kobber i jordsmonnet. Det har ikke tidligere vært forsket på om kobberforekomster har sammenheng med denne krefttypen. Forskerne konkluderer med at observasjonene støtter denne hypotesen: Kobberforekomster fører til høyere forekomster av denne krefttypen.
+
+ 
+
+Måten disse forskerne går frem på for å etablere konklusjonen, er ikke i tråd med hypotetisk-deduktiv metode, forstått som et skjema for hvordan man bør gå frem for å skaffe evidens for eller mot hypoteser.
+
+ 
+
+På hvilken måte avviker fremgangsmåten fra hvordan hypotetisk-deduktiv metode legger opp til at man går frem?
+
+		
+Selv om forskerne har funnet noe evidens for hypotesen, er den på ingen måte etablert med sikkerhet. Det er derfor klart at konklusjonen er basert på induktiv, og ikke bare deduktiv, resonnering.
+
+		
+Forholdet som forskerne beskriver i hypotesen, er ikke observerbart. Hypotetisk-deduktiv metode baserer seg på observasjoner for å bekrefte eller avkrefte hypoteser.
+
+		
+Forskerne har ikke samlet tilstrekkelig med data. Det trengs langt mer evidens før man kan endelig avgjøre om hypotesen er korrekt.
+
+		
+Forskerne har ikke etablert en hypotese og avgjort hva slags observasjoner som ville bekrefte, eller avkrefte hypotesen på forhånd, før de samlet data.
+
+1 poeng   
+
+Spørsmål 3
+
+Hvilke av følgende påstander uttrykker best det som kalles Quine-Duhem-tesen?
+
+		
+Vitenskap anvender observasjon eller eksperimenter for å undersøke om teorier/hypoteser er holdbare eller ikke. Resultatene av slike undersøkelser er imidlertid ofte tett sammenvevd med teoretiske antagelser som ikke testes i eksperimentet.
+
+		
+Vitenskapelig aktivitet forutsetter solid og presis forståelse av teori for å gi pålitelige resultater. Hvis man har mangelfull eller feilaktig forståelse av teori så kan dette lede til feilaktige eller mangelfulle resultater.
+
+		
+Vitenskapelige metoder forutsetter at man følger eksperimentelle opplegg presist i tråd med den anvendte metoden. Dersom man avviker fra det eksperimentelle opplegget, vil sannsynligvis resultatene basert på metoden være feilaktige eller mangelfulle.
+
+		
+Vitenskapelig aktivitet forutsetter solid og presis forståelse av det man undersøker for å gi pålitelige resultater. Hvis man har mangelfull eller feilaktig forståelse av det empiriske fenomenet så kan dette lede til feilaktige eller mangelfulle resultater.
+
+1 poeng   
+
+Spørsmål 4
+
+Overraskelsesprinsippet sier noe om vitenskapelig bekreftelse.
+
+Hva skal til for at observasjon bekrefter en hypotese?
+
+		
+Observasjonen bekrefter en hypotese i den grad observasjonen den leder til overraskende konklusjoner.
+
+		
+Observasjonen bekrefter en hypotese i den grad hypotesen er dristig og overraskende. 
+
+		
+Observasjonen bekrefter en hypotese i den grad den er forventet dersom hypotesen er sann, og overraskende dersom hypotesen er usann.
+
+		
+Observasjonen bekrefter en hypotese i den grad den er overraskende dersom hypotesen er sann, og forventet dersom hypotesen er usann.
+
+1 poeng   
+
+Spørsmål 5
+
+Begrepet om situert kunnskap er sentralt innen standpunktepistemologi.
+
+Hva innebærer dette begrepet?
+
+		
+At egenskaper ved forskeren påvirker evalueringen av data og funn.
+
+		
+At forskerens standpunkt og kunnskapen som oppnås, ikke må påvirkes av situasjoner utenfor forskningen.
+
+		
+At alle grupper vurderer forskningsresultater likt.
+
+		
+At vitenskapen må beholdes som verdifri.
+
+1 poeng   
+
+Spørsmål 6
+
+Hvilket av følgende forslag passer best som en definisjon av uttrykket «normalvitenskap», slik Thomas Kuhn bruker det?
+
+		
+Vitenskap som ikke reiser spesielle etiske dilemmaer.
+
+		
+Undersøkelser som søker å avkrefte eller falsifisere, snarere enn å bekrefte eller verifisere, hypoteser.
+
+		
+Vitenskapelig arbeid som gjøres innenfor eller på bakgrunn av et paradigme.
+
+		
+Vitenskapelige studier av normale ting, dvs. det som kan observeres direkte.
+
+1 poeng   
+
+Spørsmål 7
+
+Hva går ideen om enhetsvitenskap ut på?
+
+		
+At spesialisering av vitenskapelige disipliner er det som skaper mest effektive fremskritt, slik at vitenskapelige disipliner bør operere uavhengig av hverandre, uten å tillate oversettelse eller integrasjon av teorier.
+
+		
+At forskjellige vitenskapers forklaringer og teorier kan knyttes til hverandre, slik at resultater i en vitenskap i prinsippet kan oversettes til beskrivelser i en mer grunnleggende vitenskap.
+
+		
+At forskjellige vitenskapers forklaringer og teorier oppstår i så grunnleggende forskjellige kontekster at resultater i én disiplin prinsipielt ikke kan oversettes til en annen.
+
+		
+At vitenskapelige resultater først og fremst er et resultat av et komplekst samspill mellom økonomiske, politiske, sosiale og psykologiske faktorer.
+
+1 poeng   
+
+Spørsmål 8
+
+Hvilken av følgende beskrivelser passer best på Poppers syn på vitenskapelig fremskritt
+
+		
+Vitenskapelig fremskritt skjer ved at dårligere paradigmer eller verdensbilder blir erstattet med bedre gjennom vitenskapelige revolusjoner.
+
+		
+Vitenskapelig fremskritt skjer ved at de mest dristige og vidtrekkende hypotesene i tilstrekkelig grad bekreftes av evidens.
+
+		
+Vitenskapelig fremskritt skjer gjennom en eliminasjonsprosess der usanne hypoteser elimineres.
+
+		
+Vitenskapelig fremskritt skjer gjennom å finne stadig mer belegg for de beste hypoteser og avkreftelse av de dårligere hypotesene.
+
+1 poeng   
+
+Spørsmål 9
+
+Hvilket av følgende scenariene gir det mest treffende eksemplet på bekreftelsestendens (confirmation bias)?
+
+		
+Edgar, en historiker, presenterer forskningsfunnene sine på en konferanse. Når han utfordes til å gi evidens for sine konklusjoner, svarer han at hvis ingen av konferansedeltakerne kan gi noen bedre forklaring av funnene, må de akseptere hans forklaring.
+
+		
+Emily, en psykolog, utfører en studie for å undersøke et fenomen. Hun rapporterer selektivt bare data som bekrefter hypotesen hennes og ignorerer eventuelle data som motsier den.
+
+		
+Markus, en nevrofysiker, utfører eksperimenter for å teste hypotesen sin. Han vurderer konsekvent resultatene objektivt og vurderer alternative forklaringer for uventede funn.
+
+		
+Sarah, en biolog, utfører eksperimenter uten en klar hypotese. Etter å ha fått noen resultater, velger hun en passende hypotese.
+
+1 poeng   
+
+Spørsmål 10
+
+I vitenskapsfilosofiske diskusjoner kan man støte på uttrykket ad hoc-hypotese.
+
+Hva menes med ad hoc-hypotese?
+
+		
+En hypotese som er basert på tilfeldige gjetninger uten noen form for evidens.
+
+		
+En hypotese som introduseres for å “redde” en annen hypotese fra falsifikasjon.
+
+		
+En hypotese som overraskende bekreftes når man undersøker noe helt annet.
+
+		
+En hypotese som handler om de mest fundamentale vitenskapelige lovene. 
+
+1 poeng   
+
+Spørsmål 11
+
+Ifølge Robert Mertons KUDOS-normer, er det viktig at forskere etterstreber normen om universalisme.
+
+Hva går normen om universalisme ut på?  
+
+		
+Den går ut på at man i utviklingen av vitenskapelige teorier må søke å komme frem til mest mulig allmenngyldige svar.
+
+		
+Den går ut på at vitenskapelige påstander må kunne vurderes på bakgrunn av sitt innhold, uavhengig av hvem som fremsetter dem.
+
+		
+Den går ut på at siden vitenskapelig praksis handler om å skape et bedre samfunn, må man forske på det som er til beste for alle.
+
+		
+Den går ut på at man må unngå at vitenskapelige forskningsprosjekt styres av forskeres egeninteresse.
+
+1 poeng   
+
+Spørsmål 12
+
+Det er vanlig å trekke et skille mellom en hypoteses oppdagelseskontekst og dens bekreftelseskontekst.
+
+Hvilket av følgende alternativer uttrykker best en viktig grunn til å trekke et skille mellom oppdagelseskontekst og bekreftelseskontekst?  
+
+		
+Skillet er viktig fordi at dersom bekreftelseskonteksten ikke kan logisk avledes fra oppdagelseskonteksten, er hypotesen gal.
+
+		
+Skillet er viktig fordi politiske og sosiale forhold som påvirker en hypoteses oppdagelseskontekst kan overføres til hypotesens bekreftelseskontekst.
+
+		
+Skillet er viktig fordi hvorvidt en hypotese er støttet av evidens, er uavhengig av hvordan man oppdaget eller kom frem til hypotesen i utgangspunktet.
+
+		
+Skillet er viktig fordi oppdagelseskonteksten bestemmer om en hypotese er sann eller ikke. Dersom hypotesen ikke er oppdaget på en korrekt måte, er hypotesen gal.
+
+1 poeng   
+
+Spørsmål 13
+
+Enkelte mener det lever en stor sjøorm i Loch Ness. Et av de viktigste og mest berømte «bevisene» er et kornete og uklart bilde av konturen av noe som kan se ut som en sjøorm. Skeptikere er lite imponerte. En typisk innvending er:
+
+«Bemerkelsesverdige påstander krever bemerkelsesverdig evidens. At det skulle leve en stor sjøorm i Loch Ness er i konflikt med mye av det vi vet om biologi og zoologi, og ville i utgangspunktet vært bemerkelsesverdig om det stemte. Det kornete og uklare bildet kan imidlertid forestille mye rart – det er ikke «bemerkelsesverdig» evidens for en sjøorm!»  
+
+Hva er en tilsvarende måte å fremstille denne innvendingen på?  
+
+		
+Ved hjelp av Quine–Duhem-tesen: Et fotografi kan nok kalles en test, men i dette tilfellet er det svært mange feilkilder og forutsetninger du må gjøre for å kunne konkludere med at bildet faktisk viser en sjøorm.
+
+		
+Ved hjelp av Poppers falsifikasjonisme: Kunnskapen vi har samlet i biologi og zoologi er samlet sett tilstrekkelig til å avkrefte hypotesen «det lever en stor sjøorm i Loch Ness». 
+
+		
+Ved hjelp av overraskelsesprinsippet: At noen tar et kornete bilde av noe som likner en sjøorm, er egentlig ikke spesielt overraskende selv om det ikke var en sjøorm i Loch Ness.
+
+		
+Ved hjelp av hypotetisk-deduktiv metode: Fra hypotesen at det lever en stor sjøorm i Loch Ness, kan man utlede observasjoner. Problemet her er at det ikke er klart at man faktisk har fått en observasjon i tråd med prediksjonene hypotesen gir oss.
+
+1 poeng   
+
+Spørsmål 14
+
+Hvilken av de følgende påstandene er den mest treffende beskrivelsen av noe som kan sies å være en forskjell mellom Poppers og Kuhns tenkning om vitenskap?
+
+		
+Ifølge Popper bør man sørge for at verdier ikke spiller noen rolle i vitenskapelig arbeid. Kuhn hevder derimot at vitenskapelig arbeid verken kan eller burde forsøke å frigjøre seg fra normer og verdier.  
+
+		
+Popper er opptatt av å identifisere metoder man burde benytte for å undersøke verden på mest mulig rasjonell måte. Kuhn er i mindre grad opptatt av rasjonelle undersøkelser, og hevder at det å ha bestemte metoder ikke er spesielt viktig for vitenskapelig arbeid.
+
+		
+For Popper er det viktig at vitenskapen opererer med sikkerhet. For Kuhn kan paradigmer veltes dersom det blir tilstrekkelig mange anomalier, og vi kan derfor aldri være helt sikre på at vi har den korrekte beskrivelsen av verden.
+
+		
+Ifølge Popper må en vitenskapelig hypotese kunne utsettes for falsifisering. Kuhn hevder at for å gjøre fremskritt, må sentrale vitenskapelige teorier og hypoteser ofte gis en viss beskyttelse. Det trengs mer enn ett resultat som ikke passer for å velte dem.
+
+1 poeng   
+
+Spørsmål 15
+
+Ifølge enkelte personer har mennesker en usynlig livsenergi som sørger for at kropp og sjel er i harmoni. Ifølge disse personene kan sykdomssymptomer og helseproblemer noen ganger skyldes at livsenergien er kommet i ubalanse. Mange, inkludert Popper, ville nok sagt at denne hypotesen om årsakene til helseproblemer er uvitenskapelig.   
+
+Hvordan kunne Popper argumentert for at hypotesen er uvitenskapelig?
+
+       
+
+  
+
+		
+Hypotesenhandler gjør forutsetninger om forhold vi ikke kan ha sikker kunnskap om.
+
+		
+Hypotesen  er for uklar til at vi kan utlede prediksjoner som vi kan bruke til å teste den.
+
+		
+ Vi må forutsette for mangeHypotesen støttes av tilleggshypoteser for å kunne teste hypotesensom må karakteriseres som ad hoc.
+
+		
+Hypotesen beskriver noe som ikke er observerbart, og kan derfor ikke testes empirisk.
+
+1 poeng   
+
+Spørsmål 16
+
+Vitenskapsteoretikere har lenge vært opptatt av å formulere et kriterium som skiller vitenskap fra ikke-vitenskap (og spesielt ikke-vitenskap som utgir seg for å være vitenskap – såkalt pseudovitenskap).
+
+Hvilken av følgende påstander uttrykker best Poppers versjon av demarkasjonskriteriet?
+
+		
+Vitenskapelige hypoteser må kunne falsifiseres eller avkreftes, og hypotesene bør være dristige og vidtrekkende.
+
+		
+Vitenskap er basert på observasjon og eksperiment, og induktiv generalisering av resultater fra observasjon og eksperiment.
+
+		
+Vitenskapelige hypoteser må kunne verifiseres eller bekreftes, og hypotesene bør være dristige og vidtrekkende.
+
+		
+Vitenskap er basert på den vitenskapelige metode, dvs. hypotetisk-deduktiv metode. 
+
+1 poeng   
+
+Spørsmål 17
+
+Mange vitenskapsfilosofer, inkludert Popper, har påpekt at bruk av ad hoc-hypoteser er problematisk.
+
+Hvilket av følgende tilfeller er å betrakte som illegitim bruk av ad hoc-hypoteser, ifølge Popper?  
+
+		
+En observasjon eller et eksperimentelt resultat som taler mot en hypotese leder til at hypotesen forkastes og erstattes med en ny hypotese som er i stand til å omfavne observasjonen eller det eksperimentelle resultatet.
+
+		
+En observasjon eller et eksperimentelt resultat som taler mot en hypotese, imøtegås med ytterligere hypoteser som har som mål å «redde» den opprinnelige hypotesen.
+
+		
+En observasjon eller et eksperimentelt resultat som taler mot hypotesen, ignoreres fordi man har uavhengig støtte for at hypotesen er korrekt.
+
+		
+En observasjon eller et eksperimentelt resultat som taler mot en hypotese, imøtegås ved at hypotesen reformuleres.
+
+1 poeng   
+
+Spørsmål 18
+
+Hvilket av følgende utsagn passer best som beskrivelse av det Kuhn omtaler som normalvitenskap? 
+
+		
+I perioder kalt normalvitenskap forsøker man å gjendrive kjernen i paradigmet ved å utsette de sentrale teoretiske og metodologiske antakelsene for systematisk undersøkelse og eksperimentering.
+
+		
+I perioder kalt normalvitenskap forsøker man å oppdage nye fenomener ved å formulere radikalt nye teoretiske og metodologiske rammeverk samt nye eksperimentelle protokoller og nye vitenskapelige instrumenter.
+
+		
+I perioder kalt normalvitenskap forsøker man å konstruere nye paradigmer som kan ivareta grunninnsiktene i det opprinnelige paradigmet, men på en klarere og mer presis måte. 
+
+		
+I perioder med normalvitenskap forsøker man å utvikle stadig mer detaljerte og sofistikerte hypoteser basert på forutsetningene gitt av paradigmet, og forsøker å teste disse.
+
+1 poeng   
+
+Spørsmål 19
+
+På 1800-tallet oppdaget man at observasjoner av planeten Merkurs bane rundt solen på noen punkter avvek fra det Newtons lover skulle tilsi. Noen astronomer påpekte da at dette  var et avvik fra Newtons lover kun dersom man antok at det ikke også var en annen, hittil uobservert planet som gikk i bane mellom Merkur og solen. Noen av dem antok at det fantes en slik plantet, og ga den navnet ‘Vulkan’.   
+
+Hvilken av følgende vitenskapsfilosofiske poenger er det disse astronomenes påpekning best illustrerer?
+
+		
+Poppers maksime om at vitenskapelige hypoteser skal være falsifiserbare, selv om enkelte vitenskapsfolk av og til motsetter seg falsifisering.  
+
+		
+Quine–Duhem-tesen, at prediksjoner vi kan bruke til å teste hypoteser, ikke kan utledes fra enkelthypoteser, men kun fra større nettverk av teorier og bakgrunnskunnskap.
+
+		
+Sobers prinsipp om at hypoteser bekreftes når de kan gjøre rede for overraskende observasjoner. 
+
+		
+Poppers skepsis mot at vi noensinne kan ha godt induktivt belegg, altså en betydelig positiv grad av bekreftelse, for vitenskapelige teorier.
+
+1 poeng   
+
+Spørsmål 20
+
+Trine forsker på ungdomskriminalitet. Hun ønsker å finne ut hva som er årsaken til at det har blitt mer kriminalitet blant ungdommer i byen A i Midt-Norge.   
+
+Hvilken av de følgende fremgangsmåtene stemmer best med det hypotetisk-deduktive skjemaet?  
+
+		
+Først formulerer Trine hypotesen om at økt ungomdskriminalitet i A skyldes at flere barn vokser opp uten fedre. Så finner hun ut at hypotesen kohererer med kjent psykologisk kunnskap om kriminalitet. Hypotesen kan også forklare økt frafall på videregående skole i A. Trine utleder at hypotesen inntil videre kan anses å være korroborert.  
+
+		
+Først observerer Trine ungdomsmiljøene i byen på en mest mulig nøytral og objektiv måte. Deretter undersøker hun om noen av observasjonene hennes kan være påvirket av bias. Til slutt former hun en hypotese om årsaken til kriminaliteten, basert på observasjonene, gjennom en deduktivt gyldig slutning. 
+
+		
+Først formulerer Trine hypotesen om at økt ungdomskriminalitet i A skyldes at flere barn vokser opp uten fedre. Så utleder hun at hvis hypotesen stemmer, så bør vi forvente en lignende kriminalitetsuvikling i andre byer hvor flere barn vokser opp uten fedre. Hun finner ingen slik sammenheng, og konkluderer med at forklaringen er avkreftet. 
+
+		
+Først lager Trine et omfattende spørreskjema. Så sender hun ut skjemaet til et representativt utvalg av ungdommene i A. Trine studerer svarene nøye, og finner ut at ungdommer som har begått lovbrudd ofte har foreldre som har blitt arbeidsledige i løpet av siste år. Trine utleder den følgende hypotesen: Ustabil familieøkonomi er én av årsakene til kriminalitetsøkningen i A. 
+
+1 poeng   
+
+Spørsmål 21
+
+Hvilket av de følgende alternativene er et eksempel på et epistemologisk spørsmål?   
+
+		
+Hva bør vi gjøre for å unngå å ta feil om hvordan virkeligheten er? 
+
+		
+Hva er forskjellen mellom sosiale, psykologiske og fysiske fenomener?  
+
+		
+Finnes det kulturuavhengige standarder for hva som er moralsk riktig og galt? 
+
+		
+Er alt som skjer i universet bestemt (determinert) av forutgående årsaker? 
+
