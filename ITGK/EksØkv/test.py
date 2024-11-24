@@ -1,25 +1,22 @@
-f = open("datafil.txt", "w")
-f.write("""3 ; 2.5 ; 3.5 ; Alta
-1 ; 0.25 ; 1.0 ; Tana
-2.0 ; 1 ; 1.0 ; Hamar
-5 ; 7 ; 3 ; Oslo""")
+# import pickle
 
-def respons(fil, r, c):
-    try:
-        with open(fil) as f:
-            line = f.readlines()[r].split(";")
-            if not c:
-                return line[3].strip()[int(line[c])]
-            else:
-                return float(line[c])
-    except FileNotFoundError:
-        return -1
-    except:
-        return -2
+# with open("test.pcl", "rb") as f:
+#     k = pickle.load(f)
 
-d = "datafil.txt"
-t = "tallfil.txt"
+# with open("test.pcl", "wb") as f:
+#     k["rizzmaster"] = 69
+#     pickle.dump(k, f)
+    
+
+# d = {}
+# with open("test.pcl", "rb") as f:
+#     d = pickle.load(f) 
+# print(d)
 
 
-print(respons(d, 3, 0))
+s = {1, 2, 3, 4, 5, 6}
+for i in s:
+    print(i)
 
+for i in range(len(s)):
+    print(s[i])
